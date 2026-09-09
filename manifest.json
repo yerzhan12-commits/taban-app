@@ -1,0 +1,14 @@
+{
+  "name": "ТАБАН — гимнастика для стоп",
+  "short_name": "ТАБАН",
+  "description": "Гимнастика для стоп юных спортсменов 6-12 лет: тесты подвижности, укрепление свода, баланс",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0d0d0f",
+  "theme_color": "#0d0d0f",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
